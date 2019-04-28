@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coins</string>
+    <string name="market_cap">Market cap: %s %s</string>
+    <string name="price">Price: %s %s</string>
+</resources>
